@@ -1,0 +1,57 @@
+.container {
+    box-sizing:border-box;
+    flex-direction: column;
+    margin: 0px;
+}
+.smallcont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: rgb(243, 177, 131);
+    line-height: 30px;
+    border:  solid 1px rgb(181, 181, 181); 
+
+}
+#a {
+    text-align: left;
+    color:black
+}
+
+#b {
+    text-align: right;
+    color:black;
+}
+
+.para {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-image: url('bestimage.jpg');
+    background-size: 465px;
+    text-align: center;
+    line-height: 90px;
+    border: solid 1px rgb(181, 181, 181);
+
+}
+
+#c {
+    font-size: 20px;
+    text-align: left;
+    line-height: 40px;
+    padding-top: 0px;
+    color:rgb(235, 182, 113);
+}
+
+#d {
+    font-size: 20px;
+    text-align: right;
+    line-height: 40px;
+    padding-bottom: 0px; 
+    color:rgb(235, 182, 113);
+}
+
+.end {
+    font-size: 16px;
+    border: solid 1px rgb(181, 181, 181);
+    background-color:rgb(236, 166, 116);
+    text-align: left;
+    line-height: 7px;
+}
